@@ -3,7 +3,7 @@
 
 using System.Linq.Expressions;
 
-//double vlrgas = 0.00;
+//double vlrgas = 0.00;jjj
 //double vlreta = 0.00;
 double perc = 0.70;
 double conseta = 0.00;
